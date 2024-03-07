@@ -1,0 +1,5 @@
+The PowerPoint should be in PPTX formate.
+Choose either file or folder.
+For folder: Make sure that only pp files are in the folder, as other files might crash the program
+The chemdraw file will be dropped in a folder in the file or folder location with the name of the files.
+
